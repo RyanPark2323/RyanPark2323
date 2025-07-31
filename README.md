@@ -7,7 +7,7 @@ I'm a Senior in Computer Science at the University of Utah with an emphasis in A
 - 🔭 Working on **IT Support and Infrastructure Projects**
 - 🌱 Learning **Advanced AI/ML Techniques and Cybersecurity**
 - 💡 Interested in **Cybersecurity, Artificial Intelligence, and System Security**
-- 📫 Reach me at **[your.email@example.com]**
+- 📫 Reach me at **[ryan.park2322@gmail.com]**
 
 ## 🛠️ Technical Skills
 
