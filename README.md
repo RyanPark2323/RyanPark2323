@@ -1,12 +1,12 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Ryan Park 👋
 
 ## About Me
 
-I'm a [Your Role/Title] passionate about [Your Main Interest]. Currently focused on [Current Focus/Project].
+I'm a Senior in Computer Science at the University of Utah with an emphasis in AI. Currently working as an IT Support Intern for the Vice President of Research at the U of U.
 
-- 🔭 Working on **[Current Project/Role]**
-- 🌱 Learning **[Technologies You're Learning]**
-- 💡 Interested in **[Your Interests]**
+- 🔭 Working on **IT Support and Infrastructure Projects**
+- 🌱 Learning **Advanced AI/ML Techniques and Cybersecurity**
+- 💡 Interested in **Cybersecurity, Artificial Intelligence, and System Security**
 - 📫 Reach me at **[your.email@example.com]**
 
 ## 🛠️ Technical Skills
@@ -16,47 +16,30 @@ I'm a [Your Role/Title] passionate about [Your Main Interest]. Currently focused
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-## 📌 Featured Projects
-
-### 🚀 [Project Name One](https://github.com/yourusername/project1)
-**Brief description of what the project does and its impact**
-- Built with: `Technology 1`, `Technology 2`, `Technology 3`
-- Key features: Feature 1, Feature 2, Feature 3
-
-### 💻 [Project Name Two](https://github.com/yourusername/project2)
-**Brief description of what the project does and its impact**
-- Built with: `Technology 1`, `Technology 2`, `Technology 3`
-- Key features: Feature 1, Feature 2, Feature 3
-
-### 🔧 [Project Name Three](https://github.com/yourusername/project3)
-**Brief description of what the project does and its impact**
-- Built with: `Technology 1`, `Technology 2`, `Technology 3`
-- Key features: Feature 1, Feature 2, Feature 3
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RyanPark2323&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ryan-park23/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]([https://yourportfolio.com](https://ryanpark2323.github.io/my-website/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ryan.park2322@gmail.com)
 
 ---
 
