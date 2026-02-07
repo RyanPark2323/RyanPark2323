@@ -1,12 +1,12 @@
-# Hi there, I'm Ryan Park 👋
+# My Name is Ryan Park
 
 ## About Me
 
-I'm a Senior in Computer Science at the University of Utah with an emphasis in AI. Currently working as an IT Support Intern for the Vice President of Research at the U of U.
+I'm a Senior in Computer Science at the University of Utah with an emphasis in AI. Currently working as IT Support for the Vice President of Research at the U of U.
 
-- 🔭 Working on **IT Support and Infrastructure Projects**
-- 🌱 Learning **Advanced AI/ML Techniques and Cybersecurity**
-- 💡 Interested in **Cybersecurity, Artificial Intelligence, and System Security**
+- 🔭 Working on **IT Support and Infrastructure/Systems Projects**
+- 🌱 Learning **Advanced AI/ML Techniques and Systems**
+- 💡 Interested in **Systems, Artificial Intelligence, and System Security**
 - 📫 Reach me at **[ryan.park2322@gmail.com]**
 
 ## 🛠️ Technical Skills
